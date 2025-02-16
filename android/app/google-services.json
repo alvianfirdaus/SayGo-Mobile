@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "719706071393",
+    "project_id": "data-simple-bank",
+    "storage_bucket": "data-simple-bank.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719706071393:android:a278cb72bb51b5ec0a2520",
+        "android_client_info": {
+          "package_name": "com.example.chat_bank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANfnbpw9vWREgKFxkqgeq_d0yPbHk7KR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
